@@ -1,0 +1,973 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+    <meta name="generator" content="Adobe GoLive 6">
+    <title>James D. Herbsleb's publications page, ISR, SIC, SCS, CMU</title>
+    <link href="/web-herbsleb.css" rel="stylesheet" media="screen">
+  </head>
+  <body style="background-color: rgb(255, 255, 255);"> <csactions></csactions>
+    <csaction name="3D9BF3800" class="Open
+      Window" type="onevent" val0="abstracts-global/Mullick.shtml" val1="" val2="725" val3="600" val4="true" val5="true" val6="true" val7="false" val8="false" val9="false" val10="false" urlparams="1"></csaction>
+    <csaction name="3DAA82BC3" class="Open Window" type="onevent" val0="abstracts-global/Herb-Paul05.shtml" val1="" val2="725" val3="550" val4="true" val5="true" val6="true" val7="false" val8="false" val9="false" val10="false" urlparams="1"></csaction>
+    <csaction name="3DB4CF6A1" class="Open Window" type="onevent" val0="abstracts-global/Herb-Mock03.shtml" val1="" val2="725" val3="775" val4="true" val5="true" val6="true" val7="false" val8="false" val9="false" val10="false" urlparams="1"></csaction>
+    <csaction name="3DB6762C3" class="Open Window" type="onevent" val0="abstracts-global/Herb-Mock01.shtml" val1="" val2="725" val3="700" val4="true" val5="true" val6="true" val7="false" val8="false" val9="false" val10="false" urlparams="1"></csaction>
+    <csaction name="3DB869545" class="Open Window" type="onevent" val0="abstracts-global/Herb-Moit01.shtml" val1="" val2="725" val3="600" val4="true" val5="true" val6="true" val7="false" val8="false" val9="false" val10="false" urlparams="1"></csaction>
+    <csaction name="425168A31" class="Open Window" type="onevent" val0="abstracts-global/Herb-Mock00.shtml" val1="" val2="725" val3="700" val4="true" val5="true" val6="true" val7="false" val8="false" val9="false" val10="false" urlparams="1"></csaction>
+    <csaction name="425428583" class="Open Window" type="onevent" val0="abstracts-opensource/Gurb-Garv06.shtml" val1="" val2="725" val3="700" val4="true" val5="true" val6="true" val7="false" val8="false" val9="false" val10="false" urlparams="1"></csaction>
+    <csaction name="4255FBE45" class="Open Window" type="onevent" val0="abstracts-opensource/Wag-Herb05.shtml" val1="" val2="725" val3="700" val4="true" val5="true" val6="true" val7="false" val8="false" val9="false" val10="false" urlparams="1"></csaction>
+    <csaction name="425735317" class="Open Window" type="onevent" val0="abstracts-opensource/Mock-Field02.shtml" val1="" val2="725" val3="600" val4="true" val5="true" val6="true" val7="false" val8="false" val9="false" val10="false" urlparams="1"></csaction>
+    <csaction name="42584A829" class="Open Window" type="onevent" val0="abstracts-opensource/Mock-Field00.shtml" val1="" val2="725" val3="700" val4="true" val5="true" val6="true" val7="false" val8="false" val9="false" val10="false" urlparams="1"></csaction>
+    <csaction name="425B8B6C11" class="Open Window" type="onevent" val0="abstracts-defect-occur/Li-Herb06.shtml" val1="" val2="725" val3="800" val4="true" val5="true" val6="true" val7="false" val8="false" val9="false" val10="false" urlparams="1"></csaction>
+    <csaction name="425CD79413" class="Open Window" type="onevent" val0="abstracts-defect-occur/Li-Herb05.shtml" val1="" val2="725" val3="700" val4="true" val5="true" val6="true" val7="false" val8="false" val9="false" val10="false" urlparams="1"></csaction>
+    <csaction name="425E8D7A15" class="Open Window" type="onevent" val0="abstracts-defect-occur/Li-Herb05b.shtml" val1="" val2="725" val3="800" val4="true" val5="true" val6="true" val7="false" val8="false" val9="false" val10="false" urlparams="1"></csaction>
+    <csaction name="425FC77117" class="Open Window" type="onevent" val0="abstracts-defect-occur/Li-Shaw04.shtml" val1="" val2="725" val3="900" val4="true" val5="true" val6="true" val7="false" val8="false" val9="false" val10="false" urlparams="1"></csaction>
+    <csaction name="426248F319" class="Open Window" type="onevent" val0="abstracts-softproc/Herb-Zub97.shtml" val1="" val2="725" val3="700" val4="true" val5="true" val6="true" val7="false" val8="false" val9="false" val10="false" urlparams="1"></csaction>
+    <csaction name="42641E8821" class="Open Window" type="onevent" val0="abstracts-coord/Cat-Wag.shtml" val1="" val2="725" val3="650" val4="true" val5="true" val6="true" val7="false" val8="false" val9="false" val10="false" urlparams="1"></csaction>
+    <csaction name="426559F223" class="Open Window" type="onevent" val0="abstracts-coord/Herb-Mock03.shtml" val1="" val2="725" val3="650" val4="true" val5="true" val6="true" val7="false" val8="false" val9="false" val10="false" urlparams="1"></csaction>
+    <csaction name="4266F97725" class="Open Window" type="onevent" val0="abstracts-coord/Esp-Kraut02.shtml" val1="" val2="725" val3="800" val4="true" val5="true" val6="true" val7="false" val8="false" val9="false" val10="false" urlparams="1"></csaction>
+    <csaction name="426902FF27" class="Open Window" type="onevent" val0="abstracts-coord/Hand-Herb02.shtml" val1="" val2="725" val3="700" val4="true" val5="true" val6="true" val7="false" val8="false" val9="false" val10="false" urlparams="1"></csaction>
+    <csaction name="426A4D3D29" class="Open Window" type="onevent" val0="abstracts-coord/Herb-Atk02.shtml" val1="" val2="725" val3="700" val4="true" val5="true" val6="true" val7="false" val8="false" val9="false" val10="false" urlparams="1"></csaction>
+    <csaction name="432453B331" class="Open Window" type="onevent" val0="abstracts-coord/Mock-Herb02.shtml" val1="" val2="725" val3="750" val4="true" val5="true" val6="true" val7="false" val8="false" val9="false" val10="false" urlparams="1"></csaction>
+    <csaction name="43257A8033" class="Open Window" type="onevent" val0="abstracts-coord/Colb-Comp01.shtml" val1="" val2="725" val3="800" val4="true" val5="true" val6="true" val7="false" val8="false" val9="false" val10="false" urlparams="1"></csaction>
+    <csaction name="4326BD1C35" class="Open Window" type="onevent" val0="abstracts-coord/Esp-Kraut01.shtml" val1="" val2="725" val3="800" val4="true" val5="true" val6="true" val7="false" val8="false" val9="false" val10="false" urlparams="1"></csaction>
+    <csaction name="4328304F37" class="Open Window" type="onevent" val0="abstracts-coord/Gode-Herb00.shtml" val1="" val2="725" val3="800" val4="true" val5="true" val6="true" val7="false" val8="false" val9="false" val10="false" urlparams="1"></csaction>
+    <csaction name="4329ADA339" class="Open Window" type="onevent" val0="abstracts-coord/Grin-Herb99.shtml" val1="" val2="725" val3="700" val4="true" val5="true" val6="true" val7="false" val8="false" val9="false" val10="false" urlparams="1"></csaction>
+    <csaction name="432AEEAF41" class="Open Window" type="onevent" val0="abstracts-coord/Herb-Meta99.shtml" val1="" val2="725" val3="800" val4="true" val5="true" val6="true" val7="false" val8="false" val9="false" val10="false" urlparams="1"></csaction>
+    <csaction name="432C0A7E43" class="Open Window" type="onevent" val0="abstracts-coord/Herb-Grin99.shtml" val1="" val2="725" val3="650" val4="true" val5="true" val6="true" val7="false" val8="false" val9="false" val10="false" urlparams="1"></csaction>
+    <csaction name="432CFE2045" class="Open Window" type="onevent" val0="abstracts-coord/Herb-Grin99b.shtml" val1="" val2="725" val3="700" val4="true" val5="true" val6="true" val7="false" val8="false" val9="false" val10="false" urlparams="1"></csaction>
+    <csaction name="432E1DCE47" class="Open Window" type="onevent" val0="abstracts-coord/Herb-Klein95.shtml" val1="" val2="725" val3="700" val4="true" val5="true" val6="true" val7="false" val8="false" val9="false" val10="false" urlparams="1"></csaction>
+    <csscriptdict import=""></csscriptdict>
+    <csactiondict></csactiondict>
+    <script type="text/javascript"><!--
+CSAct[/*CMP*/ '3D9BF3800'] = new Array(CSOpenWindow,/*URL*/ 'abstracts-global/Mullick.shtml','',725,600,true,true,true,false,false,false,false);
+CSAct[/*CMP*/ '3DAA82BC3'] = new Array(CSOpenWindow,/*URL*/ 'abstracts-global/Herb-Paul05.shtml','',725,550,true,true,true,false,false,false,false);
+CSAct[/*CMP*/ '3DB4CF6A1'] = new Array(CSOpenWindow,/*URL*/ 'abstracts-global/Herb-Mock03.shtml','',725,775,true,true,true,false,false,false,false);
+CSAct[/*CMP*/ '3DB6762C3'] = new Array(CSOpenWindow,/*URL*/ 'abstracts-global/Herb-Mock01.shtml','',725,700,true,true,true,false,false,false,false);
+CSAct[/*CMP*/ '3DB869545'] = new Array(CSOpenWindow,/*URL*/ 'abstracts-global/Herb-Moit01.shtml','',725,600,true,true,true,false,false,false,false);
+CSAct[/*CMP*/ '425168A31'] = new Array(CSOpenWindow,/*URL*/ 'abstracts-global/Herb-Mock00.shtml','',725,700,true,true,true,false,false,false,false);
+CSAct[/*CMP*/ '425428583'] = new Array(CSOpenWindow,/*URL*/ 'abstracts-opensource/Gurb-Garv06.shtml','',725,700,true,true,true,false,false,false,false);
+CSAct[/*CMP*/ '4255FBE45'] = new Array(CSOpenWindow,/*URL*/ 'abstracts-opensource/Wag-Herb05.shtml','',725,700,true,true,true,false,false,false,false);
+CSAct[/*CMP*/ '425735317'] = new Array(CSOpenWindow,/*URL*/ 'abstracts-opensource/Mock-Field02.shtml','',725,600,true,true,true,false,false,false,false);
+CSAct[/*CMP*/ '42584A829'] = new Array(CSOpenWindow,/*URL*/ 'abstracts-opensource/Mock-Field00.shtml','',725,700,true,true,true,false,false,false,false);
+CSAct[/*CMP*/ '425B8B6C11'] = new Array(CSOpenWindow,/*URL*/ 'abstracts-defect-occur/Li-Herb06.shtml','',725,800,true,true,true,false,false,false,false);
+CSAct[/*CMP*/ '425CD79413'] = new Array(CSOpenWindow,/*URL*/ 'abstracts-defect-occur/Li-Herb05.shtml','',725,700,true,true,true,false,false,false,false);
+CSAct[/*CMP*/ '425E8D7A15'] = new Array(CSOpenWindow,/*URL*/ 'abstracts-defect-occur/Li-Herb05b.shtml','',725,800,true,true,true,false,false,false,false);
+CSAct[/*CMP*/ '425FC77117'] = new Array(CSOpenWindow,/*URL*/ 'abstracts-defect-occur/Li-Shaw04.shtml','',725,900,true,true,true,false,false,false,false);
+CSAct[/*CMP*/ '426248F319'] = new Array(CSOpenWindow,/*URL*/ 'abstracts-softproc/Herb-Zub97.shtml','',725,700,true,true,true,false,false,false,false);
+CSAct[/*CMP*/ '42641E8821'] = new Array(CSOpenWindow,/*URL*/ 'abstracts-coord/Cat-Wag.shtml','',725,650,true,true,true,false,false,false,false);
+CSAct[/*CMP*/ '426559F223'] = new Array(CSOpenWindow,/*URL*/ 'abstracts-coord/Herb-Mock03.shtml','',725,650,true,true,true,false,false,false,false);
+CSAct[/*CMP*/ '4266F97725'] = new Array(CSOpenWindow,/*URL*/ 'abstracts-coord/Esp-Kraut02.shtml','',725,800,true,true,true,false,false,false,false);
+CSAct[/*CMP*/ '426902FF27'] = new Array(CSOpenWindow,/*URL*/ 'abstracts-coord/Hand-Herb02.shtml','',725,700,true,true,true,false,false,false,false);
+CSAct[/*CMP*/ '426A4D3D29'] = new Array(CSOpenWindow,/*URL*/ 'abstracts-coord/Herb-Atk02.shtml','',725,700,true,true,true,false,false,false,false);
+CSAct[/*CMP*/ '432453B331'] = new Array(CSOpenWindow,/*URL*/ 'abstracts-coord/Mock-Herb02.shtml','',725,750,true,true,true,false,false,false,false);
+CSAct[/*CMP*/ '43257A8033'] = new Array(CSOpenWindow,/*URL*/ 'abstracts-coord/Colb-Comp01.shtml','',725,800,true,true,true,false,false,false,false);
+CSAct[/*CMP*/ '4326BD1C35'] = new Array(CSOpenWindow,/*URL*/ 'abstracts-coord/Esp-Kraut01.shtml','',725,800,true,true,true,false,false,false,false);
+CSAct[/*CMP*/ '4328304F37'] = new Array(CSOpenWindow,/*URL*/ 'abstracts-coord/Gode-Herb00.shtml','',725,800,true,true,true,false,false,false,false);
+CSAct[/*CMP*/ '4329ADA339'] = new Array(CSOpenWindow,/*URL*/ 'abstracts-coord/Grin-Herb99.shtml','',725,700,true,true,true,false,false,false,false);
+CSAct[/*CMP*/ '432AEEAF41'] = new Array(CSOpenWindow,/*URL*/ 'abstracts-coord/Herb-Meta99.shtml','',725,800,true,true,true,false,false,false,false);
+CSAct[/*CMP*/ '432C0A7E43'] = new Array(CSOpenWindow,/*URL*/ 'abstracts-coord/Herb-Grin99.shtml','',725,650,true,true,true,false,false,false,false);
+CSAct[/*CMP*/ '432CFE2045'] = new Array(CSOpenWindow,/*URL*/ 'abstracts-coord/Herb-Grin99b.shtml','',725,700,true,true,true,false,false,false,false);
+CSAct[/*CMP*/ '432E1DCE47'] = new Array(CSOpenWindow,/*URL*/ 'abstracts-coord/Herb-Klein95.shtml','',725,700,true,true,true,false,false,false,false);
+
+// --></script>
+    <table style="width: 700px;" border="0" cellpadding="10" cellspacing="0">
+      <tbody>
+        <tr>
+          <td bgcolor="#dcdcdc" width="160"><img src="/web-images/Jim/Jim-hands-cr170.jpg" alt="James D.
+              Herbsleb" border="0" height="189" width="170"></td>
+          <td bgcolor="#dcdcdc" width="500">
+            <p class="L1">James D. Herbsleb<br>
+            </p>
+            <p class="L2">Director, PhD Program in Societal Computing<br>
+              Professor, Institute for Software Research<br>
+              School of Computer Science<br>
+              Carnegie Mellon University </p>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#dcdcdc" valign="top" width="160">
+            <p class="menu"><br>
+            </p>
+            <p class="menu"><a href="/index.html">Home</a><br>
+            </p>
+            <p class="menu"><a href="/web-bio/bio.shtml">Bio</a><br>
+            </p>
+            <p class="menu"><a href="/web-research/research.shtml">Research<br>
+              </a> </p>
+            <p class="menu"><a href="/web-pubs/papers.shtml">Publications</a><br>
+            </p>
+            <p class="menu"><a href="/web-courses/courses.shtml">Courses<br>
+              </a> </p>
+            <p class="menu"><a href="/web-people/people.shtml">People</a><a href="/web-people/people.html"><br>
+              </a> </p>
+            <p class="menu"><a href="/web-pres/presentations.shtml">Presentations<br>
+              </a> </p>
+            <p class="menu"><a href="/web-links/links.shtml">Links<br>
+              </a> </p>
+            <p class="menu"><a href="/web-contact/contact.shtml">Contact<br>
+              </a> </p>
+            <p class="webmaster-text"><br>
+            </p>
+          </td>
+          <td valign="top" width="2">
+            <table style="width: 528px;" border="0" cellpadding="10" cellspacing="0">
+              <tbody>
+                <tr>
+                  <td>
+                    <h2>Selected Papers</h2>
+                    <i>(for a complete list, see </i><a href="/current-vita.pdf" target="_blank"><i>Vita</i></a><i><a href="http://conway.isri.cmu.edu/%7ejdh/vita_7_2006.pdf" target="_blank">
+                      </a>)</i> <br>
+                    <br>
+                    <span style="font-weight: bold;">Current research projects</span><br>
+                    <a href="#Architecting">Architecting Socio-Technical
+                      Ecosystems</a><br>
+                    <a href="#Coordination">Coordination and the Limits of
+                      Modularity</a><br>
+                    <a href="#Sharing">Sharing and Co-creation of Scientific
+                      Software</a><i><br>
+                    </i> <span style="font-weight: bold;"><br>
+                      Past research projects</span><b><br>
+                    </b><a href="#defect">Defect Occurrence Prediction</a><b><br>
+                    </b><a href="#Software">Software Process</a><i><b><br>
+                      </b></i>
+                    <hr style="width: 100%; height: 2px;"> <a name="Architecting"></a><span style="font-weight:
+                      bold;">Architecting Socio-Technical Ecosystems<br>
+                    </span><span style="font-style: italic;">For a description
+                      of this research area click </span><a style="font-style: italic;" href="/web-research/research.shtml#Architecting">here</a><span style="font-style: italic;">.</span><span style="font-weight: bold; font-style: italic;"></span><br>
+                    <br>
+                    <meta name="Title" content="">
+                    <meta name="Keywords" content="">
+                    <meta name="ProgId" content="Word.Document">
+                    <meta name="Generator" content="Microsoft Word 14">
+                    <meta name="Originator" content="Microsoft Word 14">
+                    <link rel="File-List" href="file://localhost/Users/jdh-old/Library/Caches/TemporaryItems/msoclip/0/clip_filelist.xml">
+                    <style>
+ /* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1107305727 0 0 415 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.vitaref, li.vitaref, div.vitaref
+	{mso-style-name:"vita ref";
+	mso-style-unhide:no;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:5.0pt;
+	margin-left:17.85pt;
+	text-indent:-17.85pt;
+	mso-pagination:widow-orphan;
+	mso-list:l0 level1 lfo1;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+@list l0
+	{mso-list-id:251936171;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-437748284 748462638 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l0:level1
+	{mso-level-style-link:"vita ref";
+	mso-level-tab-stop:131.45pt;
+	mso-level-number-position:left;
+	margin-left:131.45pt;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-font-weight:normal;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.25in;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:right;
+	margin-left:1.25in;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:1.75in;
+	mso-level-number-position:left;
+	margin-left:1.75in;
+	text-indent:-.25in;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:2.25in;
+	mso-level-number-position:left;
+	margin-left:2.25in;
+	text-indent:-.25in;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:2.75in;
+	mso-level-number-position:right;
+	margin-left:2.75in;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:3.25in;
+	mso-level-number-position:left;
+	margin-left:3.25in;
+	text-indent:-.25in;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:3.75in;
+	mso-level-number-position:left;
+	margin-left:3.75in;
+	text-indent:-.25in;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:4.25in;
+	mso-level-number-position:right;
+	margin-left:4.25in;
+	text-indent:-9.0pt;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;</style>
+                    <style>
+ /* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1107305727 0 0 415 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.vitaref, li.vitaref, div.vitaref
+	{mso-style-name:"vita ref";
+	mso-style-unhide:no;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:5.0pt;
+	margin-left:17.85pt;
+	text-indent:-17.85pt;
+	mso-pagination:widow-orphan;
+	mso-list:l0 level1 lfo1;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+@list l0
+	{mso-list-id:251936171;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-437748284 748462638 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l0:level1
+	{mso-level-style-link:"vita ref";
+	mso-level-tab-stop:131.45pt;
+	mso-level-number-position:left;
+	margin-left:131.45pt;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-font-weight:normal;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.25in;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:right;
+	margin-left:1.25in;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:1.75in;
+	mso-level-number-position:left;
+	margin-left:1.75in;
+	text-indent:-.25in;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:2.25in;
+	mso-level-number-position:left;
+	margin-left:2.25in;
+	text-indent:-.25in;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:2.75in;
+	mso-level-number-position:right;
+	margin-left:2.75in;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:3.25in;
+	mso-level-number-position:left;
+	margin-left:3.25in;
+	text-indent:-.25in;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:3.75in;
+	mso-level-number-position:left;
+	margin-left:3.75in;
+	text-indent:-.25in;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:4.25in;
+	mso-level-number-position:right;
+	margin-left:4.25in;
+	text-indent:-9.0pt;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in</style>Tsay, J., Dabbish, L., &amp; Herbsleb, J.&nbsp;
+                    (2014). Let's Talk About It: Evaluating Contributions
+                    Through Discussion in GitHub.&nbsp; To appear, <i>ACM
+                      International Symposium on Foundations of Software
+                      Engineering (FSE)</i>, Hong Kong.&nbsp; <br>
+                    <br>
+                    Tsay, J., Dabbish, L., &amp; Herbsleb, J.&nbsp;
+                    (2014).&nbsp; Influence of Social and Technical Factors for
+                    Evaluating Contribution in GitHub.&nbsp; In proceedings, <i>ACM/IEEE
+                      International Conference on Software Engineering (ICSE)</i>,
+                    (pp. 356-366), Hyderabad, India. (<a href="/web-pubs/pdfs/tsay-influence-2013.pdf">pdf</a>)<br>
+                    <br>
+                    Marlow, J., Dabbish, L., &amp; Herbsleb, J. (2013).
+                    Impression formation in online peer production: activity
+                    traces and personal profiles in github, <i>Proceedings of
+                      the Conference on Computer Supported Cooperative Work</i>
+                    (pp. 117-128). San Antonio, TX. (<a href="/web-pubs/pdfs/marlow-impression-2013.pdf">pdf</a>)<br>
+                    <br>
+                    M&uuml;ller-Birn, C., Dobusch, L., &amp; Herbsleb, J. D. (2013).
+                    Work-to-rule: the emergence of algorithmic governance in
+                    Wikipedia. Paper presented at the Proceedings of the 6th <i>International
+                      Conference on Communities and Technologies</i>, Munich,
+                    Germany. (<a href="/web-pubs/pdfs/Muller-Birn-work-to-rule-2013.pdf">pdf</a>)<br>
+                    <br>
+                    Towne, W. B., Kittur, A., Kinnaird, P., &amp; Herbsleb, J.
+                    (2013). Your process is showing: controversy management and
+                    perceived quality in wikipedia, <i>Conference on Computer
+                      Supported Cooperative Work</i> (pp. 1059-1068). San
+                    Antonio, TX. (<a href="/web-pubs/pdfs/towne-yourprocess-2013.pdf">pdf</a>)<br>
+                    <br>
+                    Daniel, S., Maruping, L., Cataldo, M., Herbsleb, J.&nbsp;
+                    (2012).&nbsp; When Cultures Clash: Participation in Open
+                    Source Communities and Its Implications For Organizational
+                    Commitment.&nbsp; <span style="font-style: italic;">International
+                      Conference on Information Systems</span>, Shanghai, China.
+                    (<a href="/web-pubs/pdfs/daniel-when-2012.pdf">pdf</a>)<br>
+                    <br>
+                    Towne, W. B., &amp; Herbsleb, J. D. (2012). Design
+                    Considerations for Online Deliberation Systems. <i>Journal
+                      of Information Technology and Politics</i> 9(1), 97-115. (<a href="/web-pubs/pdfs/Towne-design-2012.pdf">pdf</a>)<br>
+                    <br>
+                    Ramasubbu, N., Cataldo, M., Balan, R. K. and Herbsleb, J.
+                    (2011). Configuring Global Software Teams: A Multi-Company
+                    Analysis of Productivity, Quality, and Profits. In
+                    Proceedings,<span style="font-style: italic;"> International
+                      Conference on Software Engineering</span>, Honolulu, HI,
+                    pp. 261-270.&nbsp; (<span style="font-style: italic;">ACM
+                      Distinguished Paper award</span>) (<a href="/web-pubs/pdfs/ramasubbu-configuring-2011.pdf">pdf</a>)<br>
+                    <br>
+                    Cataldo, M. and Herbsleb, J. D. (2011). Factors leading to
+                    integration failures in global feature-oriented development:
+                    an empirical analysis. In Proceedings, <span style="font-style: italic;">International
+Conference
+
+
+
+
+
+
+                      on Software Engineering</span>, Honolulu, HI, pp. 161-170.
+                    (<a href="/web-pubs/pdfs/cataldo-factors-2011.pdf">pdf</a>)<br>
+                    <br>
+                    Wagstrom, P., Mockus, A., Herbsleb, J.D., &amp; Kraut, R.E.
+                    (2010). The Impact of Commercial Organizations on Volunteer
+                    Participation in an Online Community.&nbsp; <span style="font-style:
+                      italic;">Academy of Management Conference</span>. (<a href="http://conway.isri.cmu.edu/%7Ejdh/web-pubs/pdfs/wagstrom-impact-2010.pdf">pdf</a>)<br>
+                    <br>
+                    Gurbani, V.K., Garvert, A., &amp; Herbsleb, J.D. (2010).
+                    Managing a Corporate Open Source Software Asset. <span style="font-style: italic;">Communications
+
+
+
+
+
+                      of the ACM</span>, 53, 2, pp. 155-159. (<a href="pdfs/gurbani-managing-2010.pdf">pdf</a>)<br>
+                    <br>
+                    Wagstrom, P. (2009). Vertical Interaction in Open Software
+                    Engineering Communities. PhD Thesis, School of Computer
+                    Science, Carnegie Mellon University, May, 2009.&nbsp; (<a href="http://academic.patrick.wagstrom.net/thesis-files/phd-thesis.pdf">pdf</a>)<br>
+                    <br>
+                    Espinosa, A., Slaughter, S., Kraut, R., &amp; Herbsleb, J.
+                    (2007). Familiarity, Complexity and Team Performance in
+                    Geographically Distributed Software Development. <span style="font-style:
+                      italic;">Organization Science</span>, July-August,18, pp.
+                    613 &ndash; 630. (<a href="pdfs/espinosa-familiarity-2007.pdf">pdf</a>)
+                    <br>
+                    <br>
+                    Espinosa, J. A., Slaughter, S. A., Kraut, R. E., &amp;
+                    Herbsleb, J. D. (2007). Team Knowledge and Coordination in
+                    Geographically Distributed Software Development. <span style="font-style: italic;">Journal
+
+
+
+
+
+                      of Management Information Systems</span>, 24, 1, pp. 5 &ndash;
+                    12. (<a href="pdfs/espinosa-team-2007.pdf">pdf</a>) <br>
+                    <br>
+                    Gurbani, V.K., Garvert, A., &amp; Herbsleb, J.D. (2006). A
+                    Case study of a corporate open source development model. In
+                    <i>Proceedings of the International Conference on Software
+                      Engineering</i>, Shanghai, China, May 20-25, pp. 472-481.
+                    (<a href="pdfs/gurbani-case-2006.pdf">pdf</a>)<br>
+                    <br>
+                    Mullick, N., Bass, M., Houda, Z., Sangwan, R., Paulish, D.,
+                    Cataldo, M., Herbsleb, J., &amp; Bass, L. (2006). Siemens
+                    Global Studio Project: Experiences adopting an integrated
+                    GSD infrastructure. In <i>Proceedings, International
+                      Conference on Global Software Engineering, </i>pp.203-212.
+
+
+
+
+
+
+                    (<a href="pdfs/Mullick-Siemens-2006.pdf">pdf</a>)<br>
+                    <br>
+                    Herbsleb, J., Paulish, D.J., &amp; Bass, M. (2005). Global
+                    software development at Siemens: Experience from nine
+                    projects. <i>International Conference on Software
+                      Engineering (ICSE)</i>, St. Louis, MO, May 15-21, pp.
+                    524-533. (<a href="pdfs/herbsleb-global-2005.pdf">pdf</a>)<br>
+                    <br>
+                    Wagstrom, P., Herbsleb, J., &amp; Carley, K. (2005). A
+                    Social network approach to free/open source software
+                    simulation. In <i>Proceedings, First International
+                      Conference on Open Source Systems</i>, Genoa, Italy, July
+                    11-15. (<a href="pdfs/wagstrom-social-2005.pdf">pdf</a>)<br>
+                    <br>
+                    Herbsleb, J.D. &amp; Mockus, A. (2003). An empirical study
+                    of speed and communication in globally-distributed software
+                    development. <i>IEEE Transactions on Software Engineering</i>,<i>
+                      29, 3,</i> 1-14. (<a href="pdfs/Herbsleb-Empirical-2003.pdf">pdf</a>)<br>
+                    <br>
+                    Espinosa, J. A., Kraut, R.E., Slaughter, S. A., Lerch, J.
+                    F., Herbsleb, J. D., &amp; Mockus, A. (2002). Shared mental
+                    models, familiarity, and coordination: A multi-method study
+                    of distributed software teams. <i>International Conference
+                      in Information Systems</i>, Barcelona, Spain, December
+                    15-18, pp. 425-433.<br>
+                    <br>
+                    Mockus, A., Fielding, R., &amp; Herbsleb, J.D. (2002). Two
+                    case studies of open source software development: Apache and
+                    Mozilla. <i>ACM Transactions on Software Engineering and
+                      Methodology,</i> 11, 3, pp. 309-346.<span style="font-weight: bold;">
+                    </span>(<a href="pdfs/mockus-two-2002.pdf">pdf</a>)<br>
+                    <br>
+                    Espinosa, J. A., Kraut, R.E., Slaughter, S. A., Lerch, J.
+                    F., Herbsleb, J. D., &amp; Mockus, A. (2001). Shared mental
+                    models and coordination in large-scale, distributed software
+                    development. In <i>Proceedings, International Conference in
+                      Information Systems</i>, New Orleans, LA, December 16- 19.<span style="font-weight: bold;">
+                    </span>(<a href="pdfs/espinosa-shared-2002.pdf">pdf</a>)<br>
+                    <br>
+                    Herbsleb, J.D., Mockus, A., Finholt, T.A., &amp; Grinter,
+                    R.E. (2001). An empirical study of global software
+                    development: Distance and speed. In <i>Proceedings,
+                      International Conference on Software Engineering</i>,
+                    Toronto, Canada, May 15-18, pp. 81-90.&nbsp; (<a href="pdfs/herbsleb-empirical-2001.pdf">pdf</a>)<br>
+                    <br>
+                    Herbsleb, J.D., &amp; Moitra, D. (2001). Global software
+                    development. <i>IEEE Software</i>, March/April, 16-20. (<a href="pdfs/herbsleb-global-2001.pdf">pdf</a>)<br>
+                    <br>
+                    Herbsleb, J.D., Mockus, A., Finholt, T.A., &amp; Grinter,
+                    R.E. (2000). Distance, dependencies, and delay in a global
+                    collaboration. In <i>Proceedings, ACM Conference on
+                      Computer-Supported Cooperative Work</i>, Philadelphia, PA,
+                    Dec. 2-7, pp. 319-328. (<a href="pdfs/herbsleb-distance-2000.pdf">pdf</a>)<br>
+                    <br>
+                    Mockus, A., Fielding, R.T., &amp; Herbsleb, J. (2000). A
+                    case study of open source software development: The Apache
+                    server. In <i>Proceedings, International Conference on
+                      Software Engineering</i>, Limerick Ireland, June 5-7, pp.
+                    263-272.<span style="font-weight: bold;"> </span>(<a href="pdfs/mockus-acase-2000.pdf">pdf</a>)<br>
+                    <br>
+                    Grinter, R.E., Herbsleb, J.D., &amp; Perry, D.E. (1999). The
+                    geography of coordination: Dealing with distance in R&amp;D
+                    work. In <i>Proceedings, ACM Conference on Supporting Group
+                      Work (GROUP 99)</i>, Phoenix, AZ, November 14-17, pp.
+                    306-315. (<a href="pdfs/grinter-geography-1999.pdf">pdf</a>)<br>
+                    <br>
+                    Herbsleb, J. D., &amp; Grinter, R. E. (1999). Architectures,
+                    coordination, and distance: Conway's Law and beyond. <i>IEEE
+                      Software</i>, Sept/Oct 1999, 63-70. (<a href="pdfs/herbsleb-architectures-1999.pdf">pdf</a>)<br>
+                    <br>
+                    Herbsleb, J. D., &amp; Grinter, R. E. (1999). Splitting the
+                    organization and integrating the code: Conway's Law
+                    revisited. In <i>Proceedings, International Conference on
+                      Software Engineering</i>, Los Angeles, CA, May 16-22, pp.
+                    85-95. (<a href="pdfs/herbsleb-splitting-1999.pdf">pdf</a>)<br>
+                    <hr style="width: 100%; height: 2px;"><span style="font-weight: bold;"><a name="Coordination"></a>Coordination
+
+
+
+
+
+
+                      and the Limits of Modularity</span><br>
+                    <span style="font-style: italic;">For a description of this
+                      research area click </span><a style="font-style: italic;" href="/web-research/research.shtml#Coordination">here</a><span style="font-style: italic;">.</span><span style="font-weight: bold; font-style: italic;"></span><br>
+                    <br>
+                    <meta name="Title" content="">
+                    Sunshine, J., Herbsleb, J.D., &amp; Aldrich, J. (2015).
+                    Searching the state space: a qualitative study of API
+                    protocol usability.&nbsp;<em> IEEE Conference on Program
+                      Comprehension,</em> Florence, Italy, pp. 82-93. (<a href="/web-pubs/pdfs/sunshine-searching-2015.pdf">pdf</a>)<br>
+                    <br>
+                    Sunshine, J., Herbsleb, J.D., &amp; Aldrich, J. (2014).
+                    Structuring Documentation to Support State Search: A
+                    Laboratory Experiment about Protocol Programming.<span style="mso-spacerun:yes">&nbsp;
+                      </span>In proceedings, <i style="mso-bidi-font-style: normal">ECOOP</i>.<span style="mso-spacerun:yes">&nbsp;
+                      </span><o:p></o:p>(<a href="/web-pubs/pdfs/sunshine-structuring-2014.pdf">pdf</a>)<br>
+                    <meta name="Keywords" content="">
+                    <meta name="ProgId" content="Word.Document">
+                    <meta name="Generator" content="Microsoft Word 14">
+                    <meta name="Originator" content="Microsoft Word 14">
+                    <link rel="File-List" href="file://localhost/Users/jdh-old/Library/Caches/TemporaryItems/msoclip/0/clip_filelist.xml">
+                    <br>
+                    <style>
+ /* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1107305727 0 0 415 0;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.vitaref, li.vitaref, div.vitaref
+	{mso-style-name:"vita ref";
+	mso-style-unhide:no;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:5.0pt;
+	margin-left:17.85pt;
+	text-indent:-17.85pt;
+	mso-pagination:widow-orphan;
+	mso-list:l0 level1 lfo1;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+@list l0
+	{mso-list-id:251936171;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-437748284 748462638 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l0:level1
+	{mso-level-style-link:"vita ref";
+	mso-level-tab-stop:131.45pt;
+	mso-level-number-position:left;
+	margin-left:131.45pt;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-font-weight:normal;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:.75in;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.25in;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:1.25in;
+	mso-level-number-position:right;
+	margin-left:1.25in;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:1.75in;
+	mso-level-number-position:left;
+	margin-left:1.75in;
+	text-indent:-.25in;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:2.25in;
+	mso-level-number-position:left;
+	margin-left:2.25in;
+	text-indent:-.25in;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:2.75in;
+	mso-level-number-position:right;
+	margin-left:2.75in;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:3.25in;
+	mso-level-number-position:left;
+	margin-left:3.25in;
+	text-indent:-.25in;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:3.75in;
+	mso-level-number-position:left;
+	margin-left:3.75in;
+	text-indent:-.25in;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:4.25in;
+	mso-level-number-position:right;
+	margin-left:4.25in;
+	text-indent:-9.0pt;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}</style>Cataldo, M., &amp; Herbsleb, J. D. (2013).
+                    Coordination Breakdowns and Their Impact on Development
+                    Productivity and Software Failures. <i>IEEE Transactions on
+                      Software Engineering</i> 39(3), 343-360. (<a href="/web-pubs/pdfs/Cataldo-Coordination-2013.pdf">pdf</a>)<br>
+                    <br>
+                    Dabbish, L., Stuart, C., Tsay, J., &amp; Herbsleb, J.
+                    (2013). Leveraging Transparency <i>IEEE Software</i>,
+                    30(1), 37-43. (<a href="/web-pubs/pdfs/dabbish-leveraging-2013.pdf">pdf</a>)<br>
+                    <br>
+                    Tsay, J., Dabbish, L., &amp; Herbsleb, J. D. (2013). Social
+                    Media in Transparent Work Environments, <i>Collaborative
+                      and Human Aspects of Software Engineering</i> (pp. 65-72).
+                    San Francisco, CA. (<a href="/web-pubs/pdfs/tsay-social-2013.pdf">pdf</a>)<br>
+                    <br>
+                    Dabbish, L., Stuart, C., Tsay, J. and Herbsleb, J. (2012).
+                    Social Coding in GitHub: Transparency and Collaboration in
+                    an Open Software Repository.&nbsp; In Proceedings, <span style="font-style: italic;">Computer-Supported
+
+
+
+
+
+
+                      Cooperative Work</span>, Seattle, WA, pp. 1277-1286. (<a href="/web-pubs/pdfs/dabbish-social-2012.pdf">pdf</a>)<br>
+                    <br>
+                    Wagstrom, P., Herbsleb, J.D., &amp; Carley, K. (2010).
+                    Communication, Team Performance, and the Individual:
+                    Bridging Technical Dependencies. <span style="font-style: italic;">Academy
+                      of Management Conference</span>. (<span style="font-style:
+                      italic;">Best Paper Award</span>) (<a href="http://conway.isri.cmu.edu/%7Ejdh/web-pubs/pdfs/wagstrom-improving-2010.pdf">pdf</a>)<br>
+                    <br>
+                    Cataldo, M., Mockus, A., Roberts, J.A., &amp; Herbsleb, J.D.
+                    (2009). Software Dependencies, Work Dependencies, and Their
+                    Impact on Failures. <span style="font-style: italic;">IEEE
+                      Transactions on Software Engineering</span>, 99, 864-878.
+                    (<a href="pdfs/cataldo-software-2009.pdf">pdf</a>)<br>
+                    <br>
+                    Dekel, U. &amp; Herbsleb, J.D. (2009). Improving API
+                    Documentation Usability with Knowledge Pushing. In
+                    Proceedings, <span style="font-style: italic;">International
+
+
+
+
+
+
+                      Conference on Software Engineering</span>, Vancouver,
+                    Canada, May 16-24, pp. 320-330. (<a href="pdfs/dekel-inproving-2009.pdf">pdf</a>)
+                    <br>
+                    <br>
+                    Sarma, A., Maccherone, L., Wagstrom, P., &amp; Herbsleb, J.
+                    (2009). Tesseract: Interactive Visual Exploration of
+                    Socio-Technical Relationships in Software Development. In
+                    Proceedings, <span style="font-style: italic;">International
+                      Conference on Software Engineering</span>, Vancouver,
+                    Canada, May 16-24, pp. 23-33. (<a href="pdfs/sarma-tesseract-2009.pdf">pdf</a>)
+                    <br>
+                    <br>
+                    Cataldo, M. &amp; Herbsleb, J.D. (2008). Communication
+                    networks in geographically distributed software development.
+                    In Proceedings, <span style="font-style: italic;">ACM
+                      Conference on Computer- Supported Cooperative Work</span>,
+                    San Diego, CA, Nov. 8-12, pp. 579-588. (<a href="pdfs/cataldo-communication-2008.pdf">pdf</a>)
+                    <br>
+                    <br>
+                    Dekel, U. &amp; Herbsleb, J.D. (2008). Pushing relevant
+                    artifact annotations in collaborative software development.
+                    In Proceedings, <span style="font-style: italic;">ACM
+                      Conference on Computer-Supported Cooperative Work</span>,
+                    San Diego, CA, Nov. 8-12, pp. 1-4. (<a href="pdfs/dekel-pushing-2008.pdf">pdf</a>)
+                    <br>
+                    <br>
+                    Cataldo, M., Herbsleb, J.D., Carley, K.M. (2008).
+                    Socio-technical congruence: a framework for assessing the
+                    impact of technical and work dependencies on software
+                    development productivity. In Proceedings,<span style="font-style: italic;">
+                      Second ACM-IEEE International Symposium on Empirical
+                      Software Engineering and Measurement</span>,
+                    Kaiserslautern, Germany, Oct. 9-10, pp. 2-11. (<span style="font-style: italic;">ACM
+                      Distinguished Paper award</span>) (<a href="pdfs/cataldo-socio-2008.pdf">pdf</a>)
+                    <br>
+                    <br>
+                    LaToza, T.D., Garlan D., Herbsleb J.D., &amp; Myers, B.A.
+                    (2007). Program Comprehension as Fact-Finding, in
+                    proceedings of the <span style="font-style:
+                      italic;">European Software Engineering Conference and the
+                      ACM SIGSOFT Symposium on the Foundations of Software
+                      Engineering</span>, Dubrovnik, Croatia, September 3-7, pp.
+                    361-370. (<a href="pdfs/latoza-program-2007.pdf">pdf</a>) <br>
+                    <br>
+                    Dekel, U. &amp; Herbsleb, J.D. (2007). Notation and
+                    Representation in Collaborative Object-Oriented Design, in
+                    Proceedings, <span style="font-style:
+                      italic;">OOPSLA 2007</span>, pp. 261-280. (<a href="pdfs/dekel-notation-2007.pdf">pdf</a>)<br>
+                    <br>
+                    Cataldo, M., Wagstrom, P., Herbsleb, J.D., Carley, K.
+                    (2006). <br>
+                    Identification of coordination requirements: Implications
+                    for the design of collaboration and awareness tools. In
+                    Proceedings, <span style="font-style: italic;">ACM
+                      Conference on Computer-Supported Cooperative Work</span>,
+                    Banff Canada, pp. 353-362. (<span style="font-style:
+                      italic;">Best Paper Award</span>).&nbsp; (<a href="pdfs/cataldo-identification-2006.pdf">pdf</a>)<br>
+                    <br>
+                    Herbsleb, J.D., Mockus, A., Roberts, J.A. (2006).
+                    Collaboration in Software Engineering Projects: A Theory of
+                    Coordination. <span style="font-style:
+                      italic;">International Conference on Information Systems</span>,
+                    Milwaukee, WI. (<span style="font-style: italic;">Best in
+                      Track Award</span>). (<a href="pdfs/herbsleb-collaboration-2006.pdf">pdf</a>)<br>
+                    <br>
+                    Herbsleb, J.D., &amp; Mockus, A. (2003). Formulation and
+                    preliminary test of an empirical theory of coordination in
+                    software engineering. In <i>Proceedings, European Software
+                      Engineering Conference and ACM SIGSOFT Symposium on the
+                      Foundations of Software Engineering</i>, Helsinki,
+                    Finland, September 1-5, pp. 112-121.<b> </b>(<a href="pdfs/herbsleb-formulation-2003.pdf">pdf</a>)<b><br>
+                      <br>
+                    </b>Handel, M. &amp; Herbsleb, J.D. (2002). What is Chat
+                    doing in the workplace? <i>Proceedings of ACM Conference on
+                      Computer-Supported Cooperative Work (CSCW)</i>, New
+                    Orleans, LA, pp. 1-10. (<a href="pdfs/handel-what-2002.pdf">pdf</a>)<br>
+                    <br>
+                    Herbsleb, J.D., Atkins, D.L., Boyer, D.G., Handel, M., &amp;
+                    Finholt, T.A. (2002). Introducing Instant Messaging and Chat
+                    into the workplace. In <i>Proceedings of ACM Conference on
+                      Computer-Human Interaction</i>, Minneapolis, MN, April
+                    20-25, pp. 171-178.<b> </b>(<a href="pdfs/herbsleb-introducing-2002.pdf">pdf</a>)<br>
+                    <br>
+                    Mockus, A., &amp; Herbsleb, J.D. (2002). Expertise Browser:
+                    A quantitative approach to identifying expertise. In <i>Proceedings
+                      of International Conference on Software Engineering</i>,
+                    Orlando, FL, May 19-25, pp. 503-512. (<a href="pdfs/mockus-expertise-2002.pdf">pdf</a>)<b><br>
+                    </b> <br>
+                    Colbert, R. O., Compton, D. S., Hackbarth, R. L., Herbsleb,
+                    J. D., Hoadley, L. A., &amp; Wills, G. J. (2001). Advanced
+                    services: Changing how we communicate. <i>Bell Labs
+                      Technical Journal, 6(1)</i>, Jan.-Jun., 211-228. (<a href="pdfs/colbert-advanced-2001.pdf">pdf</a>)<br>
+                    <br>
+                    Godefroid, P., Herbsleb, J.D., Jagadeesan, L.J., &amp; Li,
+                    D. (2000). Ensuring privacy in presence awareness systems:
+                    An automated verification approach. In <i>Proceedings, ACM
+                      Conference on Computer-Supported Cooperative Work</i>,
+                    Philadelphia, PA, Dec. 2-7, pp. 59-68. (<a href="pdfs/godefroid-ensuring-2000.pdf">pdf</a>)<br>
+                    <br>
+                    Herbsleb, J. D. (1999). Metaphorical representation in
+                    collaborative software engineering. In <i>Proceedings,
+                      International Joint Conference on Work Activities,
+                      Coordination, and Collaboration</i>, San Francisco, CA,
+                    February 22-25, pp. 117-125. (<a href="pdfs/herbsleb-metaphorical-1999.pdf">pdf</a>)<br>
+                    <br>
+                    Herbsleb, J. D., Klein, H., Olson, G. M., Brunner, H.,
+                    Olson, J. S., &amp; Harding, J. (1995). Object-oriented
+                    analysis and design in software project teams. <i>Human
+                      Computer Interaction, 10,</i> 249-292.<span style="font-weight: bold;">
+                    </span>(<a href="pdfs/herbsleb-object-1995.pdf">pdf</a>)<br>
+                    <span style="font-weight: bold;"></span>
+                    <hr style="width: 100%; height: 2px;"><span style="font-weight: bold;"><a name="Sharing"></a>Sharing
+
+
+
+
+
+
+                      and Co-creation of Scientific Software</span><span style="font-style: italic;"><br>
+                    </span>
+                    <style>@font-face {
+  font-family: "Cambria Math";
+}p.MsoNormal, li.MsoNormal, div.MsoNormal { margin: 0in 0in 0.0001pt; font-size: 12pt; font-family: "Times New Roman"; }p.vitaref, li.vitaref, div.vitaref { margin: 0in 0in 5pt 17.85pt; text-indent: -17.85pt; font-size: 12pt; font-family: "Times New Roman"; }.MsoChpDefault {  }div.WordSection1 { page: WordSection1; }ol { margin-bottom: 0in; }ul { margin-bottom: 0in; }</style><br>
+                    <span style="font-size: 10pt;"><span style=""><span style="font-family: &quot;Times New
+                          Roman&quot;; font-style: normal; font-variant:                          normal; font-weight: normal; font-size: 7pt;                          line-height: normal; font-size-adjust: none;                          font-stretch: normal;"></span></span></span><span style="">Trainer,
+                      E.H., Kalyanasundaram, A., Chaihirunkarn, C., &amp;
+                      Herbsleb, J.D. (2016). How to Hackathon: Socio-technical
+                      Tradeoffs in Brief, Intensive Collocation.&nbsp; ACM
+                      Conference on Computer-Supported Cooperative Work and
+                      Social Media, San Francisco, CA. (<a href="/web-pubs/pdfs/trainer-howto-2016.pdf">pdf</a>)<br>
+                      <br>
+                      Trainer, E.H., Chaihirunkarn, C., Kalyanasundaram, A,
+                      Herbsleb, J.D. (2015). From Personal Tool to Community
+                      Resource: What's the Extra Work and Who Will Do It? <em>ACM
+                        Conference on Computer-Supported Cooperative Work and
+                        Social Media (CSCW)</em>, Vancouver, B.C., pp. 417-430.
+                      (<a href="/web-pubs/pdfs/trainer-personal-2015.pdf">pdf</a>)<br>
+                      <br>
+                      Howison, J., Deelman, E., McLennan, M.J., da Silva, R.F.,
+                      Herbsleb, J.D.&nbsp; (2015).&nbsp; Understanding the
+                      scientific software ecosystem and its impact: Current and
+                      future measures.&nbsp;<em> Research Evaluation</em>, 2015,
+                      pp. 1-17. (<a href="/web-pubs/pdfs/howison-understanding-2015.pdf">pdf</a>)<br>
+                      <br>
+                      Trainer, E.H., Chaihirunkarn, C., Kalyanasundaram, A.,
+                      Herbsleb, J.D.&nbsp; (2014). Community Code Engagements:
+                      Summer of Code &amp; Hackathons for Community Building in
+                      Scientific Software.&nbsp; <i>ACM Conference on
+                        Supporting Groupwork (GROUP)</i>, Sanibel Island, FL.,
+                      pp. 111-121. </span>(<a href="/web-pubs/pdfs/trainer-community-2014.pdf">pdf</a>)<br>
+                    <span style=""><br>
+                      Howison, J., &amp; Herbsleb, J. D. (2013). Incentives and
+                      integration in scientific software production, <i>ACM
+                        Conference on Computer-Supported Cooperative Work</i>
+                      (pp. 459-470). San Antonio, TX. (<a href="/web-pubs/pdfs/Howison-incentives-2013.pdf">pdf</a>)<br>
+                      <br>
+                      Howison, J. and Herbsleb, J. D. (2011). Scientific
+                      software production: incentives and collaboration. In
+                      Proceedings<i>, Computer-Supported Collaborative Work</i>
+                      Hangzhou, China, pp. 513-522. </span>(<a href="/web-pubs/pdfs/howison-scientific-2011.pdf">pdf</a>)<br>
+                    <span style="font-style: italic;"><br>
+                      For a description of this research area click </span><a style="font-style: italic;" href="/web-research/research.shtml#Sharing">here</a><span style="font-style: italic;">.</span><span style="font-weight: bold; font-style: italic;"></span><br>
+                    <br>
+                    <hr style="width: 100%; height: 2px;"><span style="font-weight: bold;"><a name="Defect"></a>Defect
+
+
+
+
+
+
+                      Occurrence Prediction</span> <br>
+                    <br>
+                    Li, P.L., Herbsleb, J., Shaw, M., &amp; Robinson, B. (2006).
+                    Experiences and results from initiating field defect
+                    prediction and product test prioritization efforts at ABB
+                    Inc. In <i>Proceedings of the International Conference on
+                      Software Engineering</i>, Shanghai, China, May 20-25, pp.
+                    413-423.<span style="font-weight: bold;"> </span>(<a href="pdfs/li-experiences-2006.pdf">pdf</a>)<br>
+                    <br>
+                    Li, P.L, Herbsleb, J., &amp; Shaw, M. (2005). Forecasting
+                    field defect rates using a combined time-based and
+                    metrics-based approach: A case study of OpenBSD. In <i>Proceedings
+                      of the 16th IEEE International Symposium on Software
+                      Reliability Engineering</i>. (<a href="pdfs/li-forecasting-2005.pdf">pdf</a>)<br>
+                    <br>
+                    Li, P. L., Herbsleb, J., &amp; Shaw, M. (2005). Finding
+                    predictors of field defects for open source software systems
+                    in commonly available data sources: A case study of OpenBSD.
+                    In <i>Proceedings, IEEE International Software Metrics
+                      Symposium</i>, 19-22 September, Como, Italy. (<a href="pdfs/Li-finding-2005.pdf">pdf</a>)<br>
+                    <br>
+                    Li, P., Shaw, M., Herbsleb J., Ray, B., &amp; Santhanam, P.
+                    (2004). Empirical evaluation of defect projection models for
+                    widely-deployed production software systems. In <i>Proceedings,
+                      ACM Symposium on the Foundations of Software Engineering</i>.
+                    (<a href="pdfs/li-empirical-2004.pdf">pdf</a>)<br>
+                    <span style="font-weight: bold;"></span>
+                    <hr style="width: 100%; height: 2px;"><span style="font-weight: bold;"><a name="Software"></a>Software
+
+
+
+
+
+
+                      Process</span><br>
+                    <br>
+                    Herbsleb, J. D., Zubrow, D., Goldenson, D., Hayes, W., &amp;
+                    Paulk, M. (1997). Software quality and the capability
+                    maturity model. <i>Communications of the ACM</i>, <i>40</i>,
+                    30-40.<span style="font-weight: bold;"> </span>(<a href="pdfs/herbsleb-software-1997.pdf">pdf</a>)<br>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#dcdcdc" valign="top" width="160">
+            <p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+    <meta name="generator" content="Adobe GoLive 6">
+    <title>James D. Herbsleb's bio page, ISR, SIC, SCS, CMU</title>
+    <link href="/web-herbsleb.css" rel="stylesheet" media="screen">
+  </head>
+  <body bgcolor="#ffffff">
+    <p class="webmaster-text">&copy; 2006-2018 James D. Herbsleb.<br>
+      Site by <a href="http://www.abwebworks.com/" target="_blank">ABWebworks.<br>
+        <br>
+      </a></p>
+  </body>
+</html>
+ <br>
+            </p>
+          </td>
+          <td style="width: 500px;"><br>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>

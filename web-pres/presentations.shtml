@@ -1,0 +1,364 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+    <meta name="generator" content="Adobe GoLive 6">
+    <title>James D. Herbsleb's presentations page, ISR, SIC, SCS, CMU</title>
+    <link href="/web-herbsleb.css" rel="stylesheet" media="screen">
+  </head>
+  <body style=" background-color: rgb(255, 255, 255);"><span style="font-family: Verdana;">
+    <table style="width: 700px;" border="0" cellpadding="10" cellspacing="0">
+      <tbody>
+        <tr>
+          <td bgcolor="#dcdcdc" width="160"><span style="font-family: Verdana;"><img src="/web-images/Jim/Jim-hands-cr170.jpg" alt="James D.
+              Herbsleb" border="0" height="189" width="170"></span></td>
+          <td bgcolor="#dcdcdc" width="500">
+            <p class="L1"><span style="font-family: Verdana;">James D. Herbsleb<br>
+              </span> </p>
+            <p class="L2"><span style="font-family: Verdana;">Director, PhD
+                Program in Societal Computing<br>
+                Professor, Institute for Software Research<br>
+                School of Computer Science<br>
+                Carnegie Mellon University </span></p>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#dcdcdc" valign="top" width="160">
+            <p class="menu"><span style="font-family: Verdana;"><br>
+              </span> </p>
+            <p class="menu"><span style="font-family: Verdana;"><a href="/index.html">Home</a><br>
+              </span> </p>
+            <p class="menu"><span style="font-family: Verdana;"><a href="/web-bio/bio.shtml">Bio</a><br>
+              </span> </p>
+            <p class="menu"><span style="font-family: Verdana;"><a href="/web-research/research.shtml">Research<br>
+                </a></span></p>
+            <p class="menu"><span style="font-family: Verdana;"><a href="/web-pubs/papers.shtml">Publications<br>
+                </a></span></p>
+            <p class="menu"><span style="font-family: Verdana;"><a href="/web-courses/courses.shtml">Courses<br>
+                </a></span></p>
+            <p class="menu"><span style="font-family: Verdana;"><a href="/web-people/people.shtml">People<br>
+                </a></span></p>
+            <p class="menu"><span style="font-family: Verdana;"><a href="/web-pres/presentations.shtml">Presentations<br>
+                </a></span></p>
+            <p class="menu"><span style="font-family: Verdana;"><a href="/web-links/links.shtml">Links<br>
+                </a></span></p>
+            <p class="menu"><span style="font-family: Verdana;"><a href="/web-contact/contact.shtml">Contact<br>
+                </a></span></p>
+            <p class="webmaster-text"><span style="font-family: Verdana;"><br>
+              </span> </p>
+          </td>
+          <td valign="top" width="2">
+            <table border="0" cellpadding="0" cellspacing="0" width="528">
+              <tbody>
+                <tr>
+                  <td><span style="font-family: Verdana;"><big><span style="font-weight: bold;">Presentations</span></big></span>
+                    <p class="vitaref"><span style="color: rgb(0, 0, 0); font-family: verdana; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;"></span><b><a href="/web-pres/slides/crowd-chase-2018-final-dist.pdf">
+                        </a></b><a href="/web-pres/slides/crowd-chase-2018-final-dist.pdf">
+                        What would a science of software engineering look like?
+                      </a>Keynote address delivered jointly to the<em> <a href="http://www.chaseresearch.org/workshops/chase-2018">Cooperative
+                          and Human Aspects of Software Engineering (CHASE)</a></em>
+                      and <em><a href="https://csise2018.github.io/">Crowd
+                          Sourcing in Software Engineering (CSI-SE)</a></em>
+                      Workshops (<em><a href="https://www.icse2018.org/home">ICSE
+                          2018</a></em>). May 27, 2018, Gothenberg, Sweden. </p>
+                    <p class="vitaref"><a href="/web-pres/slides/FSE-2016-final-dist-forpdf.pdf" style="color: rgb(0, 51, 153); text-decoration: none; font-family: verdana; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">Building
+                        a Theory of Coordination: Why and How. Keynote address
+                        at the</a><span style="color: rgb(0, 0, 0); font-family: verdana; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;"><span class="Apple-converted-space"></span></span><span style="color: rgb(0, 0, 0); font-family: verdana; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;"><span class="Apple-converted-space">
+                        </span></span><a href="https://www.cs.ucdavis.edu/fse2016/program/keynotes/" style="color: rgb(0, 51, 153); text-decoration: none; font-family: verdana; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);"><em>ACM
+                          SIGSOFT International Symposium on the Foundations of
+                          Software Engineering</em> (FSE 2016)</a><span style="color: rgb(0, 0, 0); font-family: verdana; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;"><span class="Apple-converted-space">.&nbsp;
+                          </span></span><span style="color: rgb(0, 0, 0); font-family: verdana; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;"><span class="Apple-converted-space"></span></span><span style="color: rgb(0, 0, 0); font-family: verdana; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;">November
+                        17, 2016, Seattle, WA.&nbsp; Link to<span class="Apple-converted-space">&nbsp;</span></span><a title="Theory of Coordination" href="/web-pubs/pdfs/FSE-keynote-final.pdf" style="color: rgb(0, 51, 153); text-decoration: none; font-family: verdana; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">paper
+                        in FSE proceedings</a><span style="color: rgb(0, 0, 0); font-family: verdana; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); display: inline !important; float: none;">.
+                        <br>
+                      </span></p>
+                    <p class="vitaref"><span style="font-family: Verdana;"><b style="color: black; font-size: 13.6364px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: white;"><b><a href="/web-pres/slides/ICSE-keynote-2014-v18-dist.pdf" style="color: #003399; text-decoration: none; font-size: 13.6364px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: white;">Socio-Technical
+                              Coordination</a><span style="color: black; font-size: 13.6364px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; display: inline ! important; float: none; background-color: white;">.&nbsp;
+                              </span></b></b><span style="color: black; font-size: 13.6364px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: white;">Keynote
+                          address<span class="Apple-converted-space">&nbsp;</span></span><span style="color: black; font-size: 13.6364px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; display: inline ! important; float: none; background-color: white;">at
+                          the<span class="Apple-converted-space">&nbsp;</span></span><a href="http://2014.icse-conferences.org/keynotes" style="color: #003399; text-decoration: none; font-size: 13.6364px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: white;"><em>International
+                            Conference on Software Engineering</em> (ICSE 2014)</a><span style="color: black; font-size: 13.6364px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; display: inline ! important; float: none; background-color: white;"><span class="Apple-converted-space">,</span></span><span style="color: black; font-size: 13.6364px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; display: inline ! important; float: none; background-color: white;">
+                          June 4, 2014, Hyderabad, India.&nbsp; Link to<span class="Apple-converted-space">&nbsp;</span></span><a href="https://www.youtube.com/watch?v=v0CSnYvd0C4#t=1857" style="color: #003399; text-decoration: none; font-size: 13.6364px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: white;">video</a><span style="color: black; font-size: 13.6364px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; display: inline ! important; float: none; background-color: white;"><span class="Apple-converted-space">&nbsp;</span>on
+                          YouTube.&nbsp;<span class="Apple-converted-space"> <br>
+                          </span></span></span></p>
+                    <p class="vitaref"><span style="font-family: Verdana;"><span class="Apple-style-span" style="border-collapse: separate; color: black; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;"><span class="Apple-style-span" style="font-size: 14px;"><span style="text-decoration: none;"><span style="color: black; font-size: 13.6364px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; font-weight: bold; background-color: white;"><a href="/web-pres/slides/OSS-10-6-2011.pdf" style="color: #003399; text-decoration: none; font-size: 13.6364px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: white;">From
+                                  Openness to Transparency: The Role of Social
+                                  Media in Open Source Ecosystems</a>. </span><span style="color: black; font-size: 13.6364px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: white;">Keynote
+                                address</span><span style="color: black; font-size: 13.6364px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; display: inline ! important; float: none; background-color: white;"><span class="Apple-converted-space">&nbsp;</span>at</span><span style="color: black; font-size: 13.6364px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; text-decoration: underline; background-color: white;"><span class="Apple-converted-space">&nbsp;</span><em><a href="http://ossconf.org/" style="color: rgb(0, 51, 153); text-decoration: none;">International
+                                    Conference on Open Source Systems (OSS 2011)</a></em></span><span style="color: black; font-size: 13.6364px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; display: inline ! important; float: none; background-color: white;">,</span><span style="color: black; font-size: 13.6364px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; display: inline ! important; float: none; background-color: white;">
+                                October 6, 2011, Salvador, Brazil. <br>
+                              </span></span></span></span></span></p>
+                    <p class="vitaref"><span style="font-family: Verdana;"><span class="Apple-style-span" style="border-collapse: separate; color: black; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;"><span class="Apple-style-span" style="font-size: 14px;"><span style="text-decoration: none;"><span style="color: black; font-size: 13.6364px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; display: inline ! important; float: none; background-color: white;"></span>Architectural
+                              Knowledge and Organizational Context: The Case
+                              for Socio-Technical Styles</span>.&nbsp; </span><span class="Apple-style-span" style="font-size: 14px;">Keynote
+
+
+                            <a href="/web-pres/slides/SHARK-5-24-11-dist.pdf">presentation</a><span class="Apple-converted-space">
+                            </span>at<span class="Apple-converted-space">&nbsp;</span><a href="http://www.shark-workshop.org/" style="color: red; text-decoration: none;
+                            font-style: italic;">Workshop on SHAring and Reusing
+                              architectural Knowledge</a>, May 24, 2011,
+                            Honolulu, HI. <br>
+                          </span></span></span></p>
+                    <p class="vitaref"><span style="font-family: Verdana;"><span class="Apple-style-span" style="border-collapse: separate; color: black; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;"></span><span style="color: black; font-size: 13.6364px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; display: inline ! important; float: none; background-color: white;"><span class="Apple-converted-space">
+                          </span></span><span style="color: rgb(0, 0, 0); text-decoration:
+                        none;">Talking about Concerns</span>.&nbsp; <span class="Apple-style-span" style="border-collapse: separate; color: black; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;"><span class="Apple-style-span" style="font-size: 14px;">Invited
+
+
+
+
+
+                            <a href="/web-pres/slides/AOSD-2011-v1-dist.pdf">presentation</a><span class="Apple-converted-space">
+                            </span>at<span class="Apple-converted-space">&nbsp;</span><a href="http://www.aosd.net/2011/" style="color: red; text-decoration: none;"><span style="text-decoration: underline;"><span style="font-style: italic;">International
+Conference
+on
+
+
+
+                                  Aspect-Oriented Development</span></span><span style="font-style: italic;"></span></a>,
+                            March 23, 2011, Porto de Galinhas, Brazil.<br>
+                          </span></span></span></p>
+                    <p class="vitaref"><span style="font-family: Verdana;"><span class="Apple-style-span" style="border-collapse: separate; color: black; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; font-size: medium;"><span class="Apple-style-span" style="font-size: 14px;"></span></span>Replication
+
+
+
+                        and Robust Results.<span style="">&nbsp; </span>Keynote
+                        <a href="/web-pres/slides/RESER-2010-dist.pdf">presentation</a>
+                        at <i>Workshop on Replication in Software Engineering</i>,
+                        May 4, 2010, Capetown, South Africa.<span style="">&nbsp;
+                          </span><span style=""><o:p></o:p></span></span></p>
+                    <p class="vitaref"><span style="font-family: Verdana;">MSR:
+                        Mining for Scientific Results?<span style="">&nbsp; </span>Keynote
+                        <a href="/web-pres/slides/MSR-2010-dist.pdf">presentation</a>
+                        at <i>Mining Software Repositories</i>, May 2, 2010,
+                        Capetown, South Africa.<span style="">&nbsp; </span><span style=""><o:p></o:p></span></span><span style="display: none;">A
+                        Socio-Technical Approach to Collaboration, Coordination,
+                        and Governance.<span style="">&nbsp; </span>IBM T.J.
+                        Watson Research Center, March 12, 2010. (Invited
+                        presentation).</span></p>
+                    <p class="vitaref"><span style="font-family: Verdana;"><!--[if !supportLists]--><span style="font-size: 10pt;"><span style=""></span></span><span style="">Sociotechnical
+                          Ecosystems. <span style="font-style: italic;">IFIP WG
+                            2.9</span>, San Diego, February 10, 2010. (Invited <a href="/web-pres/slides/IFIP2.9-2-10-2010-dist.pdf">presentation</a>).<o:p></o:p></span></span></p>
+                    <p class="vitaref"><span style="font-family: Verdana;"><!--[if !supportLists]--><span style="font-size: 10pt;"><span style=""></span></span>On
+
+
+
+                        the Diminishing Prospects for an Engineering Discipline
+                        of Requirements.<span style="">&nbsp; </span>Keynote <a href="/web-pres/slides/RE-2009-dist.pdf">presentation</a>,
+                        <i>IEEE International Requirements Engineering
+                          Conference</i>, Sept. 2, 2009, Atlanta, GA.<span style=""><o:p></o:p></span></span><span style="display: none;">On
+                        the Diminishing Prospects for an Engineering Discipline
+                        of Requirements.<span style="">&nbsp; </span>Atlanta,
+                        GA, <i style="">International Conference on
+                          Requirements Engineering</i>.<span style="">&nbsp; </span>(Keynote
+                        address).</span></p>
+                    <p class="vitaref"><span style="font-family: Verdana;"><!--[if !supportLists]--><span style="font-size: 10pt;"><span style=""><span style="font-family: &quot;Times New
+                            Roman&quot;; font-style: normal;                            font-variant: normal; font-weight: normal;                            font-size: 7pt; line-height: normal;                            font-size-adjust: none; font-stretch:                            normal;"></span></span></span><span style=""><span style=""></span>Coordination
+                          in Global Development.<span style="">&nbsp; </span>University
+
+
+
+                          of British Columbia, October 2, 2008.<span style="">&nbsp;
+                            </span>(Distinguished Speaker Series <a href="/web-pres/slides/UBC-10-2-08-dist.pdf">presentation</a>).<span style="">&nbsp;
+                            </span><o:p></o:p></span></span></p>
+                    <p class="vitaref"><span style="font-family: Verdana;"><!--[if !supportLists]--><span style="font-size: 10pt;"><span style=""><span style="font-family: &quot;Times New
+                            Roman&quot;; font-style: normal;                            font-variant: normal; font-weight: normal;                            font-size: 7pt; line-height: normal;                            font-size-adjust: none; font-stretch:                            normal;"></span></span></span><span style=""><span style=""></span>Tactics
+                          for Global Software Development: When to do What?<span style="">&nbsp;
+
+
+
+                            </span><i style="">Siemens Software Engineering
+                            Conference</i>, July 17, 2008.<span style="">&nbsp;
+                          </span>(Keynote <a href="/web-pres/slides/Siemens-conference-7-17-08-dist.pdf">address</a>).<span style="">&nbsp;
+                            </span><o:p></o:p></span></span></p>
+                    <p class="vitaref"><span style="font-family: Verdana;"><!--[if !supportLists]--><span style="font-size: 10pt;"><span style=""><span style="font-family: &quot;Times New
+                            Roman&quot;; font-style: normal;                            font-variant: normal; font-weight: normal;                            font-size: 7pt; line-height: normal;                            font-size-adjust: none; font-stretch:                            normal;"></span></span></span><span style=""><span style=""></span>A
+                          Highly Selective, Deeply Biased, and Mildly Heretical
+                          View of Software Engineering.<span style="">&nbsp; </span>Microsoft
+
+
+
+                          Research / University of Washington Summer Institute,
+                          August 12, 2007.<span style="">&nbsp; </span>(Keynote
+                          <a href="/web-pres/slides/MSR-UWash-herbsleb-8-12-07-dist.pdf">address</a>).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          <o:p></o:p></span></span></p>
+                    <p class="vitaref"><span style="font-family: Verdana;"><!--[if !supportLists]--><span style="font-size: 10pt;"><span style=""><span style="font-family: &quot;Times New
+                            Roman&quot;; font-style: normal;                            font-variant: normal; font-weight: normal;                            font-size: 7pt; line-height: normal;                            font-size-adjust: none; font-stretch:                            normal;"></span></span></span><span style=""></span><span style=""></span><span style="">Global
+                          Software Engineering: The Future of Socio-technical
+                          Coordination, in <i style="">Future of Software
+                            Engineering 2007</i>, L. Briand and A. Wolf,
+                          Editors. 2007, IEEE-CS Press. (Invited <a href="/web-pres/slides/ICSE-FoSE-2007-v2.pdf">presentation</a>,
+                          ICSE 2007.)<span style="">&nbsp; </span><o:p></o:p></span></span></p>
+                    <p class="vitaref"><span style="font-family: Verdana;"><!--[if !supportLists]--><span style="font-size: 10pt;"><span style=""><span style="font-family: &quot;Times New
+                            Roman&quot;; font-style: normal;                            font-variant: normal; font-weight: normal;                            font-size: 7pt; line-height: normal;                            font-size-adjust: none; font-stretch:                            normal;"></span></span></span><span style=""></span>Open
+
+
+
+                        Source Ecologies.<span style="">&nbsp; </span>IBM
+                        Toronto, Academy of Technology Open Source Conference,
+                        February 27, 2007.<span style="">&nbsp; </span>(Keynote
+                        <a href="/web-pres/slides/IBM-OSS-Toronto-2-27-07-dist.pdf">address</a>).<span style="">&nbsp;
+                          </span></span></p>
+                    <p class="vitaref"><span style="font-family: Verdana;"><!--[if !supportLists]--><span style="font-size: 10pt;"><span style=""><span style="font-family: &quot;Times New
+                            Roman&quot;; font-style: normal;                            font-variant: normal; font-weight: normal;                            font-size: 7pt; line-height: normal;                            font-size-adjust: none; font-stretch:                            normal;"></span></span></span><span style=""><span style=""></span>Aligning
+                          Coordination Behavior with Coordination Needs:
+                          Congruence in Software Development.<span style="">&nbsp;
+                            </span>IBM TJ Watson Research, February 13, 2007.<span style="">&nbsp;
+                            </span>(Invited <a href="/web-pres/slides/IBM-2-13-07-dist.pdf">presentation</a>).<span style="">&nbsp;
+                            </span></span></span></p>
+                    <p class="vitaref"><span style="font-family: Verdana;"><!--[if !supportLists]--><span style="font-size: 10pt;"><span style=""><span style="font-family: &quot;Times New
+                            Roman&quot;; font-style: normal;                            font-variant: normal; font-weight: normal;                            font-size: 7pt; line-height: normal;                            font-size-adjust: none; font-stretch:                            normal;"></span></span></span><span style=""><span style=""></span>Coordination
+                          in Engineering: Computing Task Dependencies from Work
+                          Artifacts.<span style="">&nbsp; </span>Boeing Phantom
+                          Works, January 9, 2007.<span style="">&nbsp; </span>(Invited
+
+
+
+                          presentation.)</span></span></p>
+                    <p class="vitaref"><span style="font-family: Verdana;"><!--[if !supportLists]--><span style="font-size: 10pt;"><span style=""><span style="font-family: &quot;Times New
+                            Roman&quot;; font-style: normal;                            font-variant: normal; font-weight: normal;                            font-size: 7pt; line-height: normal;                            font-size-adjust: none; font-stretch:                            normal;"></span></span></span><span style=""><span style=""></span>Coordination
+                          in GSD: Making the Invisible Visible.<span style="">&nbsp;
+                            </span><i style="">International Conference on
+                            Global Software Engineering</i>, Florianopolis,
+                          Brazil, Oct. 16. (Keynote address)<o:p></o:p></span></span></p>
+                    <p class="vitaref"><span style="font-family: Verdana;"><!--[if !supportLists]--><span style="font-size: 10pt;"><span style=""><span style="font-family: &quot;Times New
+                            Roman&quot;; font-style: normal;                            font-variant: normal; font-weight: normal;                            font-size: 7pt; line-height: normal;                            font-size-adjust: none; font-stretch:                            normal;"></span></span></span><span style=""><span style=""></span>From
+                          Software Engineering to Software as Service: </span>Computing
+                        Task Dependencies from Work Artifacts.<span style="">&nbsp;
+
+
+                          </span>Microsoft Research Laboratory, August 11, 2006.<span style="">&nbsp;
+                          </span>(Invited presentation.)</span></p>
+                    <p class="vitaref"><span style="font-family: Verdana;"><!--[if !supportLists]--><span style="font-size: 10pt;"><span style=""><span style="font-family: &quot;Times New
+                            Roman&quot;; font-style: normal;                            font-variant: normal; font-weight: normal;                            font-size: 7pt; line-height: normal;                            font-size-adjust: none; font-stretch:                            normal;"></span></span></span><span style=""></span>Dependencies
+
+
+
+                        and awareness in unstable environments.<span style="">&nbsp;
+                          </span>Stanford University, March 22, 2006.<span style="">&nbsp;
+                          </span>(Invited presentation.)</span></p>
+                    <p class="vitaref"><span style="font-family: Verdana;"><!--[if !supportLists]--><span style="font-size: 10pt;"><span style=""><span style="font-family: &quot;Times New
+                            Roman&quot;; font-style: normal;                            font-variant: normal; font-weight: normal;                            font-size: 7pt; line-height: normal;                            font-size-adjust: none; font-stretch:                            normal;"></span></span></span><span style=""></span>Overcoming
+
+
+
+                        the Challenges of Global Development. <i style=""><span style="">&nbsp;</span>OOP
+                          2006</i>, Munich, Germany, January 18, 2006.<span style="">&nbsp;
+                          </span>(Invited presentation). </span></p>
+                    <p class="vitaref"><span style="font-family: Verdana;"><!--[if !supportLists]--><span style="font-size: 10pt;"><span style=""><span style="font-family: &quot;Times New
+                            Roman&quot;; font-style: normal;                            font-variant: normal; font-weight: normal;                            font-size: 7pt; line-height: normal;                            font-size-adjust: none; font-stretch:                            normal;"></span></span></span><span style=""></span>What
+
+
+
+                        Every Commercial Developer Should Know about How Open
+                        Source Works.<span style="">&nbsp; </span><i style="">OOP
+                          2006</i>, Munich, Germany, January 19, 2006.<span style="">&nbsp;
+                          </span>(Invited presentation). </span></p>
+                    <p class="vitaref" style="margin-left: 0.25in;
+                      text-indent: -0.25in;"><span style="font-family: Verdana;"><!--[if !supportLists]--><span style="font-size: 10pt;"><span style=""><span style="font-family: &quot;Times New
+                            Roman&quot;; font-style: normal;                            font-variant: normal; font-weight: normal;                            font-size: 7pt; line-height: normal;                            font-size-adjust: none; font-stretch:                            normal;"></span></span></span><span style=""></span>Integrating
+organizational
+
+
+
+                        systems.<span style="">&nbsp; </span>Keynote, Siemens
+                        Technology Day 2005, Salzburg, Austria, 11/7/2005.<span style="">&nbsp;
+                          </span></span></p>
+                    <p class="vitaref"><span style="font-family: Verdana;"><!--[if !supportLists]--><span style="font-size: 10pt;"><span style=""><span style="font-family: &quot;Times New
+                            Roman&quot;; font-style: normal;                            font-variant: normal; font-weight: normal;                            font-size: 7pt; line-height: normal;                            font-size-adjust: none; font-stretch:                            normal;"></span></span></span><span style=""><span style=""></span>Beyond
+                          computer science.<span style="">&nbsp; </span></span><i>International
+Conference
+
+
+
+                          on Software Engineering </i><span style="">(ICSE)</span>,
+                        pp. 23-27, St. Louis, MO, May 15-21, 2005 (invited
+                        presentation). </span></p>
+                    <p class="vitaref"><span style="font-family: Verdana;"><!--[if !supportLists]--><span style="font-size: 10pt;"><span style=""><span style="font-family: &quot;Times New
+                            Roman&quot;; font-style: normal;                            font-variant: normal; font-weight: normal;                            font-size: 7pt; line-height: normal;                            font-size-adjust: none; font-stretch:                            normal;"></span></span></span><span style=""></span>Why
+
+
+
+                        open source works.<span style="">&nbsp; </span><i style="">Open
+                          Source and Free Software: Concepts, Controversies, and
+                          Solutions</i>, May 9-11, University of Toronto,
+                        Toronto, Canada.<span style="">&nbsp; </span><a href="http://osconf.kmdi.utoronto.ca/default.htm">http://osconf.kmdi.utoronto.ca/default.htm</a>
+                        (invited <a href="http://conway.isri.cmu.edu/%7ejdh/Herbsleb-Toronto-5-10-04.ppt">presentation</a>,
+                        <a href="http://hosting.epresence.tv/KMDI/1/watch/72.aspx">
+                        </a><a href="http://hosting.epresence.tv/KMDI/1/watch/72.aspx">video</a>)<span style="">.<br>
+                        </span></span></p>
+                    <p class="vitaref"><span style="font-family: Verdana;"><!--[if !supportLists]--><span style="font-size: 10pt;"><span style=""><span style="font-family: &quot;Times New
+                            Roman&quot;; font-style: normal;                            font-variant: normal; font-weight: normal;                            font-size: 7pt; line-height: normal;                            font-size-adjust: none; font-stretch:                            normal;"></span></span></span><span style=""></span>Two<span style="">
+                          Cases of Open Source Software Development: Apache and
+                          Mozilla.</span> <i><span style="">HBS - MIT Sloan
+                            Free/Open Source Software Conference: New Models of
+                            Software Development,</span></i><span style=""> June
+                          19-20, Harvard Business School and MIT Sloan School of
+                          Business.</span><a href="http://opensource.mit.edu/conference.html"><span style="">
+                            http://opensource.mit.edu/conference.html</span></a><span style="">
+                          (invited presentation.)</span></span></p>
+                    <p class="vitaref"><span style="font-family: Verdana;"><!--[if !supportLists]--><span style="font-size: 10pt;"><span style=""><span style="font-family: &quot;Times New
+                            Roman&quot;; font-style: normal;                            font-variant: normal; font-weight: normal;                            font-size: 7pt; line-height: normal;                            font-size-adjust: none; font-stretch:                            normal;"></span></span></span>Research
+                        Priorities in Open Source Software Development.<span style="">&nbsp;
+                          </span><i style="">Advancing the Research Agenda on
+                          Free/Open Source Software</i>, Oct. 14, Brussels,
+                        Belgium.<span style="">&nbsp; </span>Institute of
+                        Infonomics, University of Maastricht and Center for
+                        Information Policy, University of Maryland.<span style="">&nbsp;
+                          </span><a href="http://www.infonomics.nl/FLOSS/workshop/">http://www.infonomics.nl/FLOSS/workshop/</a>
+                        (invited presentation.)</span></p>
+                    <p class="vitaref"><span style="font-family: Verdana;"><!--[if !supportLists]--><span style="font-size: 10pt;"><span style=""><span style="font-family: &quot;Times New
+                            Roman&quot;; font-style: normal;                            font-variant: normal; font-weight: normal;                            font-size: 7pt; line-height: normal;                            font-size-adjust: none; font-stretch:                            normal;"></span></span></span>Global
+                        Software Development: The Bell Labs Collaboratory.<span style="">&nbsp;
+                          </span>In proceedings, <i>International Conference on
+                          Software Engineering</i> (ICSE 2001) Toronto, Canada,
+                        May 15-18, p. 681.<span style="">&nbsp; </span>(Invited
+                        presentation.)</span></p>
+                    <span style="font-family: Verdana;"><!--EndFragment--></span>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#dcdcdc" valign="top" width="160">
+            <p><span style="font-family: Verdana;"><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+    <meta name="generator" content="Adobe GoLive 6">
+    <title>James D. Herbsleb's bio page, ISR, SIC, SCS, CMU</title>
+    <link href="/web-herbsleb.css" rel="stylesheet" media="screen">
+  </head>
+  <body bgcolor="#ffffff">
+    <p class="webmaster-text">&copy; 2006-2018 James D. Herbsleb.<br>
+      Site by <a href="http://www.abwebworks.com/" target="_blank">ABWebworks.<br>
+        <br>
+      </a></p>
+  </body>
+</html>
+</span></p>
+            <span style="font-family: Verdana;"><br>
+            </span> </td>
+          <td width="500"><span style="font-family: Verdana;"><br>
+            </span> </td>
+        </tr>
+      </tbody>
+    </table>
+    <span style="font-family: Verdana;"> </span>
+  </body>
+</html>

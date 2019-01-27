@@ -1,0 +1,49 @@
+body     { color: black; font-size: 14px; font-family: verdana; margin-left: 10px }
+td   { color: black; font-size: 14px; font-family: verdana }
+.L1         { color: black; font-weight: normal; font-size: x-large; vertical-align: top; margin-top: 0px; margin-bottom: 12px; margin-left: 10px }
+.L2      { color: black; font-style: normal; font-weight: bold; font-size: 14px; vertical-align: top; margin-top: 0px; margin-left: 10px }
+.L3 { color: gray; font-weight: bold; font-size: 13px; vertical-align: top; margin-top: 0px }
+.L4  { color: black; font-weight: 500; font-size: 11px; vertical-align: top; margin-top: 0px; margin-left: 0px }
+a:link     { color: red; text-decoration: none }
+a:visited      { color: #039; text-decoration: none }
+a:hover    { color: #f03; text-decoration: underline }
+a:active  { color: #f03; text-decoration: none }
+.menu a:link        { color: black; font-weight: 500; font-size: 18px; line-height: 15px; text-decoration: none; margin-left: 10px }
+.menu a:visited           { color: #039; font-weight: 500; font-size: 18px; line-height: 15px; text-decoration: none; margin-left: 10px }
+.menu a:hover        { color: #f03; font-weight: 500; font-size: 18px; line-height: 15px; text-decoration: none; margin-left: 10px }
+.menu a:active       { color: #f00; font-weight: 500; font-size: 18px; line-height: 15px; text-decoration: none; margin-left: 10px }
+.webmaster a:link      { color: red; font-size: x-small; text-decoration: none }
+.webmaster a:visited      { color: #039; font-size: x-small; text-decoration: none }
+.webmaster a:hover     { color: red; font-size: x-small; text-decoration: underline }
+.webmaster a:active   { color: red; font-size: x-small; text-decoration: none }
+.menu-InactiveLink   { color: #666; font-weight: 500; font-size: 18px; line-height: 5px; text-decoration: none; margin-left: 10px }
+.webmaster-text          { color: black; font-size: xx-small; line-height: normal; font-family: verdana; margin-left: 10px }
+.title-large            { color: black; font-weight: 800; font-size: 16px; line-height: 20px; text-decoration: none; margin-left: 10px }
+.title-16px         { color: black; font-weight: bold; font-size: 16px; text-decoration: none }
+.title-14px          { color: black; font-weight: bold; font-size: 14px; text-decoration: none }
+.textpara     { color: black; font-size: 14px; font-family: verdana; margin-left: 10px }
+.textpara-med     { color: black; font-size: medium; line-height: 20px; font-family: verdana; margin-left: 10px }
+.menu-HomeInactiveLink    { color: #666; font-weight: 500; font-size: 18px; line-height: 5px; text-decoration: none; margin-left: 10px }
+
+
+/*
+     FILE ARCHIVED ON 12:22:55 Aug 31, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:10:04 Jan 27, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 47.146 (3)
+  esindex: 0.006
+  captures_list: 67.511
+  CDXLines.iter: 14.134 (3)
+  PetaboxLoader3.datanode: 150.423 (5)
+  exclusion.robots: 0.355
+  exclusion.robots.policy: 0.341
+  RedisCDXSource: 1.673
+  PetaboxLoader3.resolve: 90.32 (2)
+  load_resource: 255.284
+*/

@@ -1,0 +1,179 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+    <meta name="generator" content="Adobe GoLive 6">
+    <title>James D. Herbsleb's bio page, ISR, SIC, SCS, CMU</title>
+    <link href="/web-herbsleb.css" rel="stylesheet" media="screen">
+  </head>
+  <body style="background-color: rgb(255, 255, 255);">
+    <table style="width: 700px;" border="0" cellpadding="10" cellspacing="0">
+      <tbody>
+        <tr>
+          <td bgcolor="#dcdcdc" width="160"><img src="/web-images/Jim/Jim-hands-cr170.jpg" alt="James D.
+              Herbsleb" border="0" height="189" width="170"></td>
+          <td bgcolor="#dcdcdc" width="500">
+            <p class="L1">James D. Herbsleb<br>
+            </p>
+            <p class="L2">Director, PhD Program in Societal Computing<br>
+              Professor, Institute for Software Research<br>
+              School of Computer Science<br>
+              Carnegie Mellon University</p>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#dcdcdc" valign="top" width="160">
+            <p class="menu"><br>
+            </p>
+            <p class="menu"><a href="/index.html">Home</a><br>
+            </p>
+            <p class="menu"><a href="/web-bio/bio.shtml">Bio</a><br>
+            </p>
+            <p class="menu"><a href="/web-research/research.shtml">Research</a><br>
+            </p>
+            <p class="menu"><a href="/web-pubs/papers.shtml">Publications<br>
+              </a></p>
+            <p class="menu"><a href="/web-courses/courses.shtml">Courses<br>
+              </a></p>
+            <p class="menu"><a href="/web-people/people.shtml">People<br>
+              </a></p>
+            <p class="menu"><a href="/web-pres/presentations.shtml">Presentations<br>
+              </a></p>
+            <p class="menu"><a href="/web-links/links.shtml">Links<br>
+              </a></p>
+            <p class="menu"><a href="/web-contact/contact.shtml">Contact<br>
+              </a></p>
+            <p class="webmaster-text"><br>
+            </p>
+          </td>
+          <td valign="top" width="2">
+            <table border="0" cellpadding="0" cellspacing="0" width="528">
+              <tbody>
+                <tr>
+                  <td>
+                    <h2 class="title-large"><big>Research</big><br>
+                    </h2>
+                    <p class="textpara"><strong>Major research areas:</strong></p>
+                    <p class="textpara"><a href="#Coordination%20"><span style="color: red;">Coordination
+                          in Software Engineering</span></a> <br>
+                      <a href="#ecosystems"><span style="color: red;">Open
+                          Source Ecosystems</span></a><br>
+                      <a href="#hackathons">Hackathons, Codefests, Sprints, Data
+                        Dives . . .</a></p>
+                    <span style="font-weight: bold;"></span>
+                    <p class="textpara"><span style="font-weight: bold;"><a name="Coordination "></a>Coordination
+                        in Software Engineering<br>
+                      </span></p>
+                    <p class="textpara">Coordinating the work of individuals,
+                      teams, organizations, and even ecosystems is one of the
+                      fundamental challenges of software engineering. During the
+                      50 year history of the field, coordination has been
+                      approached in a great variety of ways, from meetings to
+                      process programming to models and methods of development
+                      to modular architectures. </p>
+                    <p class="textpara">The effectiveness of any approach seems
+                      to depend critically on a host of contextual
+                      factors.&nbsp; This suggests an area desperately in need
+                      of a theory to provide a conceptual framework that will
+                      let us understand more deeply the problem of coordination
+                      and the impact of various solutions.</p>
+                    <p class="textpara">With students and colleagues, I have
+                      developed a theory of coordination and performed a number
+                      of empirical studies informed by this theory.&nbsp; The <a href="/web-pubs/pdfs/herbsleb-formulation-2003.pdf">
+                        theory</a>, in sum, characterizes <a href="/web-pubs/pdfs/herbsleb-collaboration-2006.pdf">coordination
+                        as a distributed constraint satisfaction problem</a>
+                      over engineering decisions that are distributed over
+                      people. <a href="/web-pubs/pdfs/Cataldo-Coordination-2013.pdf">
+                        Successful coordination</a> happens when organizations
+                      execute an appropriate "social algorithm" that is "<a href="/web-pubs/pdfs/cataldo-identification-2006.pdf">congruent</a>"
+                      with the particular coordination problems by making
+                      decisions, communicating, and leaving visible work traces,
+                      without violating constraints. <a href="/web-pubs/pdfs/herbsleb-building-2016.pdf"><br>
+                      </a></p>
+                    <p class="textpara"><a href="/web-pubs/pdfs/herbsleb-building-2016.pdf">This
+                        paper</a> provides an overview of my work in this area.</p>
+                    <hr style="width: 100%; height: 2px;">
+                    <p class="textpara"><span style="font-weight: bold;"><a name="ecosystems"></a>Open
+                        Source Ecosystems</span><br>
+                    </p>
+                    <p class="textpara">With the advent of <a href="/web-pubs/pdfs/dabbish-social-2012.pdf">transparent</a>
+                      hosting environments like GitHub, GitLab, and Bitbucket,
+                      open source projects are now generally embedded in highly
+                      interconnected ecosystems connected through dependencies,
+                      collaboration, and complementary relationships. Managing
+                      breaking changes is a particular coordination challenge,
+                      and different ecosystems accomplish this in very different
+                      ways, as we observed in a <a href="/web-pubs/pdfs/bogart-HowTo-2016.pdf">multiple
+                        case study</a>. </p>
+                    <p class="textpara">This project is more fully described on
+                      our <a href="http://breakingapis.org/">breaking changes
+                        website</a>, which also shows an interactive
+                      visualization of data from a survey of participants in 18
+                      ecosystems about their values and practices around
+                      coordination.</p>
+                    <hr style="width: 100%; height: 2px;"><span style="font-weight: bold;"><a name="hackathons"></a>
+                      <p class="textpara">Hackathons, Codefests, Sprints, Data
+                        Dives . .</p>
+                    </span>
+                    <p class="textpara">Hackathons are everywhere. All of the
+                      major tech companies hold them, many scientific
+                      communities depend on them, and universities sponsor and
+                      organize them. They are thought to be a great tool for
+                      sparking innovation, for building communities, and for
+                      learning the realities of programming. <br>
+                      <br>
+                      Yet it is not at all clear if hackathons have the desired
+                      result, or how to choose a point in the design space of
+                      hackathons that is most likely to achieve the particular
+                      results (innovation, community, learning) that the
+                      sponsors and participants want. We are observing a number
+                      of open source and scientific hackathons, as well as an
+                      internal hackathon in a large tech company (Microsoft's
+                      18,000-participant One Week hackathon). We are also
+                      looking at related "<a href="/web-pubs/pdfs/trainer-community-2014.pdf">community
+                        code engagements</a>" that are not really hackathons,
+                      but serve some of the same purposes, e.g., Google's Summer
+                      of Code (GSoC).&nbsp; Our papers include an examination of
+                      different ways of <a href="/web-pubs/pdfs/trainer-howto-2016.pdf">organizing
+                        hackathon teams</a>, and <a href="/web-pubs/pdfs/filippova-fromDiversity-2017.pdf">brainstorming
+                        as a promising technique</a> to make hackathons more
+                      friendly and satisfying to self-identified minority
+                      participants.<br>
+                      <br>
+                      We have also helped to organize two workshops on
+                      hackathons, one at <a href="https://hackathon-workshop.github.io/">CSCW
+                        2017</a>, and another at <a href="http://hackathon-workshop-2018.com/">CHI
+                        2018.</a></p>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor="#dcdcdc" valign="top" width="160">
+            <p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+    <meta name="generator" content="Adobe GoLive 6">
+    <title>James D. Herbsleb's bio page, ISR, SIC, SCS, CMU</title>
+    <link href="/web-herbsleb.css" rel="stylesheet" media="screen">
+  </head>
+  <body bgcolor="#ffffff">
+    <p class="webmaster-text">&copy; 2006-2018 James D. Herbsleb.<br>
+      Site by <a href="http://www.abwebworks.com/" target="_blank">ABWebworks.<br>
+        <br>
+      </a></p>
+  </body>
+</html>
+</p>
+            <br>
+          </td>
+          <td style="width: 500px;"><br>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
